@@ -2,9 +2,9 @@
 
 ## Ejercicio 1
 
-###Consultar en el catálogo de alguna tienda de informática el precio de un ordenador tipo servidor y calcular su coste de amortización a cuatro y siete años
+##Consultar en el catálogo de alguna tienda de informática el precio de un ordenador tipo servidor y calcular su coste de amortización a cuatro y siete años
 
-El servidor escogido es del catalogo de la página pccomponentes y es el siguiente: ![Dell PowerEdge T340](https://www.pccomponentes.com/dell-poweredge-t340-intel-xeon-e-2124-8gb-1-tb) con un precio de 815,95€
+El servidor escogido es del catalogo de la página pccomponentes y es el siguiente: [Dell PowerEdge T340](https://www.pccomponentes.com/dell-poweredge-t340-intel-xeon-e-2124-8gb-1-tb) con un precio de 815,95€
 
 Segun la ![tabla de la agencia tributaria de coeficientes de amortizacion](https://www.agenciatributaria.es/AEAT.internet/Inicio/_Segmentos_/Empresas_y_profesionales/Empresas/Impuesto_sobre_Sociedades/Periodos_impositivos_a_partir_de_1_1_2015/Base_imponible/Amortizacion/Tabla_de_coeficientes_de_amortizacion_lineal_.shtml) el porcentaje para Equipos para procesos de informacion es del 25%.
 
